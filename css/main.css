@@ -1,0 +1,30 @@
+body
+{
+    background-color: #F1F1F1;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+.topspace
+{
+    margin-top: 40px;
+}
+.control-big
+{
+        height: 30vh;
+        float: left;
+}
+.left
+{
+    float: left;
+}
+.button-align
+{
+    margin-top: 9px;
+}
+.button-align-top
+{
+    margin-top: 24px;
+}
+.textareaadd
+{
+    width: 100%;
+}
